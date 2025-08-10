@@ -1,6 +1,6 @@
 # ShotVu – Smart Screen & Webcam Recorder
 
-🎥 Try it now → [Shotvu](https://shotvu.com)
+🎥 Try it now → [Record screen Shotvu](https://shotvu.com)
 
 ShotVu is an online screen recorder with a floating webcam bubble, built-in teleprompter, and countdown.  
 Perfect for async video messaging, demos, tutorials, and remote team updates — no installs, just your browser.
